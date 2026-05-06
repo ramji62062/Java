@@ -1,4 +1,4 @@
-# Java
+# Java course from basic to advanced
 # Phase 1
 📋 PHASE 1 SUMMARY & WHAT'S NEXT
 What You've Mastered in Phase 1:
